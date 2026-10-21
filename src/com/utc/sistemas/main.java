@@ -24,5 +24,5 @@ public class main {
 		lista.mostrarAtras();
 		
 	}
-
+//  eduardo garcia
 }
